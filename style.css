@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,500;1,600;1,700&display=swap');
+
+body {
+    font-family: 'Inter';
+    padding: 0;
+    margin: 0;
+    max-width: 1150px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    padding-left: 300px;
+    gap: 50px;
+    margin-top: -46px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.box {
+    margin-top: 50px;
+}
+
+.mn {
+    padding-left: 1200px;
+    margin-top: -100px;
+}
+
+.box-1 {
+    padding-top: 200px;
+}
+
+.image {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -400px;
+}
+
+.hero {
+    padding-left: 550px;
+    margin-top: -400px;
+}
+
+.tobe {
+    padding-top: 300px;
+}
+
+.imag {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -135px;
+}
+
+.her {
+    padding-left: 550px;
+    margin-top: -300px;
+}
+
+.git {
+    display: flex;
+    justify-content: center;
+}
+
+.log {
+    display: flex;
+    justify-content: center;
+    margin-left: -100px;
+}
